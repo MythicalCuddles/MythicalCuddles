@@ -1,4 +1,4 @@
-<span align="center">
+<p align="center">
   <img src="https://i.imgur.com/f45s9EN.png">
   <a href="https://melissabrennan.dev"><img src="https://img.shields.io/badge/Website-MelissaBrennan-cc026e.svg"></a>
   <a href="https://mythicalcuddles.xyz"><img src="https://img.shields.io/badge/Website-MythicalCuddles-cc026e.svg"></a>
@@ -14,4 +14,4 @@
   <a href="https://github.com/MythicalCuddles/UU-SoftwareDevelopment"><img src="https://img.shields.io/badge/Java-Software%20Development-275FB7.svg"></a>
   <a href="https://github.com/MythicalCuddles/Introduction-to-Java-Programming-10th-Edition"><img src="https://img.shields.io/badge/Java-Introduction%20to%20Java-2A9C9E.svg"></a>
   <a href="https://github.com/MythicalCuddles/UU-ComputerHardware"><img src="https://img.shields.io/badge/Assembly-Computer%20Hardware-77317F.svg"></a>
-</span>
+</p>
