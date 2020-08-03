@@ -1,9 +1,5 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on: ... University Projects
-- 🌱 I’m currently learning: ... JavaScript
-- 💬 Ask me about: ... Anything
-- 📫 How to reach me: ... melissa@mythicalcuddles.xyz
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... My favourite movies are Mamma Mia! Here We Go Again and Coyote Ugly
-- 📺 Currently watching: ... Suits
+<p align="center">
+  <a href="https://mythicalcuddles.xyz"><img src="https://i.imgur.com/f45s9EN.png"></a>
+  <a href="https://www.paypal.me/mythicalcuddles"><img src="https://img.shields.io/badge/Support%20the%20Developer-Donate%20via%20PayPal-ffa329.svg"></a>
+  <a href="https://www.patreon.com/mythicalcuddles"><img src="https://img.shields.io/badge/Support%20the%20Developer-Become%20a%20Patreon-ffa329.svg"></a>
+</p>
