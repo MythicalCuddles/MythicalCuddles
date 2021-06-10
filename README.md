@@ -17,3 +17,7 @@
 <a href="https://github.com/MythicalCuddles/DiscordBot"><img src="https://img.shields.io/badge/CSharp-DiscordBot-inactive.svg"></a>
 <a href="https://bot.mythicalcuddles.xyz" target="_BLANK"><img src="https://img.shields.io/badge/Website-DiscordBot%20Web-inactive.svg"></a>
 <a href="https://github.com/MythicalCuddles/DiscordBot-Web"><img src="https://img.shields.io/badge/PHP-DiscordBot%20Web-inactive.svg"></a>
+
+
+<h1>Notes</h1>
+<img src="https://img.shields.io/badge/Private%20Repositories-Some%20projects%20are%20set%20to%20private%20at%20the%20moment%2C%20I'll%20change%20these%20to%20public%20once%20I've%20finished%20the%20documentation%20and%20readme%20files%20for%20them.-informational.svg">
