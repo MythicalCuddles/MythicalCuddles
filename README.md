@@ -1,8 +1,11 @@
 <h1>What I'm Currently Working On</h1>
 <a href="https://melissabrennan.dev" target="_BLANK"><img src="https://img.shields.io/badge/Website-MelissaBrennan-cc026e.svg"></a>
+<a href="https://mythicalcuddles.xyz" target="_BLANK"><img src="https://img.shields.io/badge/Website-MythicalCuddles.xyz-cc026e.svg"></a>
+<a href="https://mythicalcuddl.es" target="_BLANK"><img src="https://img.shields.io/badge/Website-MythicalCuddl.es-cc026e.svg"></a>
+
 <a href="https://github.com/MythicalCuddles/melissabrennan.dev"><img src="https://img.shields.io/badge/HTML%2FCSS-MelissaBrennan-8746b6.svg"></a>
-<a href="https://mythicalcuddles.xyz" target="_BLANK"><img src="https://img.shields.io/badge/Website-MythicalCuddles-cc026e.svg"></a>
-<a href="https://github.com/MythicalCuddles/mythicalcuddles.xyz"><img src="https://img.shields.io/badge/HTML%2FCSS-MythicalCuddles-8746b6.svg"></a>
+<a href="https://github.com/MythicalCuddles/mythicalcuddles.xyz"><img src="https://img.shields.io/badge/HTML%2FCSS-MythicalCuddles.xyz-8746b6.svg"></a>
+<a href="https://github.com/MythicalCuddles/mythicalcuddl.es"><img src="https://img.shields.io/badge/HTML%2FCSS-MythicalCuddl.es-8746b6.svg"></a>
 
 <h1>University Work</h1>
 <a href="https://github.com/MythicalCuddles/UU-DynamicWebAuthoring"><img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Dynamic%20Web%20Authoring-ffffff.svg"></a>
