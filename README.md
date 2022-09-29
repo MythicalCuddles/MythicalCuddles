@@ -1,30 +1,43 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5C586D)
-
-<h1>What I'm Currently Working On</h1>
-<a href="https://melissabrennan.dev" target="_BLANK"><img src="https://img.shields.io/badge/Website-MelissaBrennan-cc026e.svg"></a>
-<a href="https://mythicalcuddles.xyz" target="_BLANK"><img src="https://img.shields.io/badge/Website-MythicalCuddles.xyz-cc026e.svg"></a>
-<a href="https://mythicalcuddl.es" target="_BLANK"><img src="https://img.shields.io/badge/Website-MythicalCuddl.es-cc026e.svg"></a>
-
-<a href="https://github.com/MythicalCuddles/melissabrennan.dev"><img src="https://img.shields.io/badge/HTML%2FCSS-MelissaBrennan-8746b6.svg"></a>
-<a href="https://github.com/MythicalCuddles/mythicalcuddles.xyz"><img src="https://img.shields.io/badge/HTML%2FCSS-MythicalCuddles.xyz-8746b6.svg"></a>
-<a href="https://github.com/MythicalCuddles/mythicalcuddl.es"><img src="https://img.shields.io/badge/HTML%2FCSS-MythicalCuddl.es-8746b6.svg"></a>
-
-<h1>University Work</h1>
-<a href="https://github.com/MythicalCuddles/UU-DynamicWebAuthoring"><img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Dynamic%20Web%20Authoring-ffffff.svg"></a>
-<a href="https://github.com/MythicalCuddles/UU-DatabaseSystems"><img src="https://img.shields.io/badge/MySQL-Database%20Systems-orange.svg"></a>
-<a href="https://github.com/MythicalCuddles/Book-Loaning-System"><img src="https://img.shields.io/badge/Java-Book%20Loaning%20System-C52424.svg"></a>
-<a href="https://github.com/MythicalCuddles/Quiz-Game"><img src="https://img.shields.io/badge/C%2B%2B-Quiz%20Game-D1BC44.svg"></a>
-<a href="https://github.com/MythicalCuddles/UU-ObjectOrientedProgramming"><img src="https://img.shields.io/badge/C%2B%2B-Object%20Oriented%20Programming-brightgreen.svg"></a>
-<a href="https://github.com/MythicalCuddles/UU-HCI"><img src="https://img.shields.io/badge/Web-HCI-1D9C23.svg"></a>
-<a href="https://github.com/MythicalCuddles/UU-SoftwareDevelopment"><img src="https://img.shields.io/badge/Java-Software%20Development-275FB7.svg"></a>
-<a href="https://github.com/MythicalCuddles/Introduction-to-Java-Programming-10th-Edition"><img src="https://img.shields.io/badge/Java-Introduction%20to%20Java-2A9C9E.svg"></a>
-<a href="https://github.com/MythicalCuddles/UU-ComputerHardware"><img src="https://img.shields.io/badge/Assembly-Computer%20Hardware-77317F.svg"></a>
-
-<h1>Other Projects</h1>
-<a href="https://github.com/MythicalCuddles/DiscordBot"><img src="https://img.shields.io/badge/CSharp-DiscordBot-inactive.svg"></a>
-<a href="https://bot.mythicalcuddles.xyz" target="_BLANK"><img src="https://img.shields.io/badge/Website-DiscordBot%20Web-inactive.svg"></a>
-<a href="https://github.com/MythicalCuddles/DiscordBot-Web"><img src="https://img.shields.io/badge/PHP-DiscordBot%20Web-inactive.svg"></a>
+# 🕹️ MythicalCuddles
 
 
-<h1>Notes</h1>
-<img src="https://img.shields.io/badge/Private%20Repositories-Some%20projects%20are%20set%20to%20private%20at%20the%20moment%2C%20I'll%20change%20these%20to%20public%20once%20I've%20finished%20the%20documentation%20and%20readme%20files%20for%20them.-informational.svg">
+### 🧰 Languages and Tools
+
+<img align="left" alt="csharp" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="dot-net" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+<img align="left" alt="dot-net Core" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="PHP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="docker" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Android" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img align="left" alt="Xamarin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+
+<br>
+
+# 
+
+### My Top Projects
+<div style="text-align: center;">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mythicalcuddles&repo=DiscordBot&show_owner=true&theme=buefy)](https://github.com/MythicalCuddles/DiscordBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mythicalcuddles&repo=DiscordBot-Web&show_owner=true&theme=buefy)](https://github.com/MythicalCuddles/DiscordBot-Web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mythicalcuddles&repo=Book-Loaning-System&show_owner=true&theme=buefy)](https://github.com/MythicalCuddles/Book-Loaning-System)
+
+</div>
+<br />
+
+#
+
+### My GitHub Stats
+<div style="text-align: center;">
+
+[![MythicalCuddles' GitHub stats](https://github-readme-stats.vercel.app/api?username=mythicalcuddles&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
